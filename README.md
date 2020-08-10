@@ -2,5 +2,5 @@
 just another repository
 hi all
 
-farah here, i like to drink coffee and tea
-i had my breakfast with some eggs and tea
+farah here, i like to drink tea
+i`ve had my breakfast with some eggs and tea
