@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+-just another repository
 hi all
 
 farah here, i like to drink tea
